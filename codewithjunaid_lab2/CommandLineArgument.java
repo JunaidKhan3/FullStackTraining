@@ -1,5 +1,7 @@
 package com.codewithjunaid_lab2;
-
+/*
+*12. Write a Program to access command line arguments. 
+*/
 public class CommandLineArgument {
 
 	public static void main(String[] args) {
