@@ -2,6 +2,10 @@ package com.codewithjunaid_lab2;
 
 import java.lang.reflect.Array;
 import java.util.Scanner;
+/*
+*Ques-5. Write a program to calculate average of the n number using a 
+separate function other than main. 
+*/
 
 public class AverageOfNNumbers {
 public static void main(String[] args) {
