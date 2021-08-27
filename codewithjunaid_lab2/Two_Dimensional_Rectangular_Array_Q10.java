@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Two_Dimensional_Rectangular_Array_Q10 {
 	/*
-	*Write a program to display number matrix as follows using 
+	*Ques 10-Write a program to display number matrix as follows using 
            Two Dimensional Rectangular Array. 
            1  2 3 4
            5  6 7  8
