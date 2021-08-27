@@ -1,7 +1,10 @@
 package com.codewithjunaid_lab2;
 
 import java.util.Scanner;
-
+/*
+*7. Write a program to sort an array element in ascending or 
+descending order 
+*/
 public class SortingAnArrayElement {
 
 		int a[]=new int[5];
