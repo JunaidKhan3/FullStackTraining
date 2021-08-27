@@ -1,5 +1,7 @@
 package com.codewithjunaid_lab2;
-
+/*
+*Question 2. Write a program to print default values of all primitive types
+*/
 public class DefaultPrimitiveDatatypes {
 short s;
 int i;
