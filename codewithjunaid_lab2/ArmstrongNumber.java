@@ -4,7 +4,7 @@ import java.util.Scanner;
 /** ques,15(b)-) To check given number is an Armstrong number or 
 perfect number or palindrome or none of these?
 */
-public class ArmstrongNumber_Ques15 {
+public class ArmstrongNumber_Ques15_b {
 	
 	static boolean isArmstrong(int n) {
 	
