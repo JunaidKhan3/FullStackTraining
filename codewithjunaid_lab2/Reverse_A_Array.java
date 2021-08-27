@@ -1,7 +1,9 @@
 package com.codewithjunaid_lab2;
 
 import java.util.Scanner;
-
+/*
+*9. Write a program to reverse elements in the Array 
+*/
 public class Reverse_A_Array {
 		int arr []= new int[5];
 		void getdata() {		
