@@ -1,5 +1,7 @@
 package com.codewithjunaid_lab2;
-
+/*
+*1. Write a program to print "Hello World" on Console. 
+*/
 public class HelloWorld_Console {
 	/*Print helloworld in console
 	  Author KGN21068 
