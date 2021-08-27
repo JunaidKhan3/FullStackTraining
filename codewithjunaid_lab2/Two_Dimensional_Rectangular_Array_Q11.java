@@ -3,6 +3,13 @@ package com.codewithjunaid_lab2;
 import java.util.Scanner;
 
 public class Two_Dimensional_Rectangular_Array_Q11 {
+	/*11. Write a program to display number matrix as follows using 
+           Two Dimensional Rectangular Array. 
+              1
+              2 3 
+              4 5 6
+              7 8 9 1
+        */	
 int a=4;
 int arr[] []=new int[a][a];
 void getdata() {
