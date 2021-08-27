@@ -1,7 +1,9 @@
 package com.codewithjunaid_lab2;
 
 public class Location_Of_Element {
-
+/*
+*8. Write a program to find the location of element in the Array.
+*/
 	public static void main(String[] args) {
 	int a[]= {1,2,3,4,5};
 	System.out.println(("Initial ELement : "));
