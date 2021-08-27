@@ -1,7 +1,10 @@
 package com.codewithjunaid_lab2;
 
 public class ResizeAnArray {
-
+/*
+*6. Write a program to resize an array. (Since you cannot resize an array, use 
+System.arrayCopy method and demonstrate the same). 
+*/
 	public static void main(String[] args) {
 		
 		int arr1[]= {0,1,2,3,4,5};
